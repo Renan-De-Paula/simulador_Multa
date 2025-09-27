@@ -11,18 +11,16 @@ Calcula a multa no valor de R$7,00 por km/h acima do limite
 Exibe mensagens informativas ao motorista
 
 📌 Exemplo de Uso
-css
-Copiar
-Editar
+
 Qual a velocidade atual do carro? 75  
 Tenha um bom dia! Dirija com segurança!  
-bash
-Copiar
-Editar
+
 Qual a velocidade atual do carro? 90  
 MULTADO! Você excedeu o limite permitido que é de 80km/h  
 O valor da multa é de: R$70.00  
+
 Tenha um bom dia! Dirija com segurança!  
+
 💡 Tecnologias Utilizadas
 Python 3.x
 
@@ -33,13 +31,6 @@ Condicional if
 Operações matemáticas básicas
 
 Formatação com format() para exibir valores em reais
-
-📈 Melhorias Futuras
-Exibir a velocidade máxima permitida de forma personalizada
-
-Adaptar o valor da multa por região ou tipo de via
-
-Interface gráfica com barra de velocidade
 
 📄 Licença
 Este projeto está sob a licença MIT.
